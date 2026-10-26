@@ -4,8 +4,12 @@ At Elaria I own mobile releases: getting our apps built, signed and shipped to t
 My home turf is React Native, Expo and modern web stacks like Next.js. I like clean UI, fast performance and building tools people actually use.
 
 🌐 Elsewhere
+
 ![GitHub](https://img.shields.io/badge/Personal_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 🚀 Release & Mobile
+
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
@@ -14,6 +18,7 @@ My home turf is React Native, Expo and modern web stacks like Next.js. I like cl
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 💻 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -27,4 +32,5 @@ My home turf is React Native, Expo and modern web stacks like Next.js. I like cl
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=kevin-elaria&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)
